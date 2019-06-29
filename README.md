@@ -1,7 +1,9 @@
 # AllAboutGhorBari.net
 Made for CSE-3100 Web Programming Laboratory project
 To get it working,
-1.Make database named 'website'
+1.Make database named 'website'.
+
+
 2.Creation table query(copy it to xampp)-
 
 CREATE TABLE `users` (
@@ -28,6 +30,6 @@ CREATE TABLE `buy_houses` (
 ) ENGINE=InnoDB AUTO_INCREMENT=14 DEFAULT CHARSET=latin1
 
 
-3.populate the table with data
+3.populate the table with data .
 
 4.enjoy!
